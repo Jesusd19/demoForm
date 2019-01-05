@@ -1,0 +1,14 @@
+<div class="container">
+    <div class="row">
+      <div class="col-md-8 offset-md-2">
+          <h2 class="titulo">Demo Form: Sku </h2>
+          <form #f="ngForm" (ngSubmit)="onSubmit(f.value)">
+            <div class="form-group">
+              <label for="skuInput">SKU</label>
+              <input type="text" class="form-control input-button" id="skuInput" placeholder="Sku" ngModel>
+            </div>
+            <button type="submit" class="btn btn-primary">Submit</button>
+          </form>
+      </div>
+    </div>
+  </div>
