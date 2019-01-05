@@ -16,8 +16,8 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 # Demo Form
 
-Este es un proyecto que se tiizo para aprender lo basico de los form. Cada component creado es independiente del otro,
+Este es un proyecto que se utilizo para aprender lo basico de los form. Cada component creado es independiente del otro,
 cada uno es creado para trabajar distintas caracteristicas de los form.
 
-Si quiere probar cada uno debe de entrar a app.component.html y asignar copiar la etiqueta de el component que quiere visualizar.
+Si quiere probar cada uno debe de entrar a app.component.html y copiar la etiqueta del component que quiere visualizar.
 
